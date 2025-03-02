@@ -1,0 +1,3 @@
+{
+  "extends": "@lord-ui/eslint-config"
+}
