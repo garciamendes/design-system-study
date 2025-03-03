@@ -1,6 +1,7 @@
 {
   "name": "@lord-ui/eslint-config",
   "license": "MIT",
+  "version": "2.1.0",
   "private": true,
   "main": "index.js",
   "devDependencies": {
