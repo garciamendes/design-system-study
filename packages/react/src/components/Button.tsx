@@ -13,7 +13,7 @@ export const Button = styled('button', {
   padding: '0 $4',
 
   display: 'flex',
-  algreenms: 'center',
+  alignItems: 'center',
   justifyContent: 'center',
   gap: '$2',
 
